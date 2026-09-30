@@ -1,0 +1,6 @@
+month_end,region,fibernode,homepasses,active_ca,ca_penetration_pct,capex_total,peer_homepasses,peer_active_ca,peer_ca_penetration_pct,benchmark_gap_ca,benchmark_lease_gap_proxy
+2025-12-31,Jakarta Timur,F125728,50,31,62.0,268366711,100,78,78.0,8.00,1050051.28
+2025-12-31,Jakarta Selatan,F708541,50,22,44.0,274310384,100,76,76.0,16.00,2093052.63
+2025-12-31,Jakarta Barat,F737809,50,32,64.0,287817281,100,79,79.0,7.50,982879.75
+2025-12-31,Jakarta Utara,F926002,50,33,66.0,277237740,100,89,89.0,11.50,1515286.52
+2025-12-31,Jakarta Pusat,F951618,50,31,62.0,268518715,50,40,80.0,9.00,1183725.00
